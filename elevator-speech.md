@@ -1,0 +1,4 @@
+### Elevator Speech
+Imagine stepping into a cinema where the magic starts long before the movie begins. With ImmersiCinema, we’re transforming theaters into interactive playgrounds using AR and VR technology. Picture this: solving AR-based puzzles in the lobby tied to the movie’s plot, immersing yourself in a 360-degree VR trailer, or unlocking exclusive AR collectibles from your favorite film. And during select screenings, optional AR overlays add an extra layer of excitement with real-time effects and trivia.
+
+Our goal is simple: to elevate the movie-going experience, making it more immersive, memorable, and engaging than ever. With cutting-edge AR and VR technology, we’re not just showing films—we’re creating adventures. Let’s redefine the way people experience cinema!
